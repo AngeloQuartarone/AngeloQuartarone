@@ -1,4 +1,4 @@
-## 👋 Hi everyone, I'm Angelo Quartarone!
+# 👋 Hi everyone, I'm Angelo Quartarone!
 
 🎓 I'm a Computer Science student at the University of Pisa, with a deep focus on low-level programming. My passion lies in understanding and controlling the hardware at a fundamental level, which is why I work primarily with **C**.
 
@@ -6,9 +6,17 @@
 
 🌱 I’m currently learning more in depth **C**, but in the future I would also like to explore languages such as **Rust** and **Zig**!
 
-💡 I also have experience with languages like **Python**, **JavaScript**, **TypeScript**, **Bash**, and **Java**, but my true expertise and enthusiasm are in pushing the limits of low-level code.
+💡 I also have experience with languages like **Python**, **JavaScript**, **TypeScript**, **Bash**, **Java** and **OCaml**, but my true expertise and enthusiasm are in pushing the limits of low-level code.
 
 🚀 I’m always eager to connect with others who share a passion for system-level programming, whether it's through collaboration on open-source projects or deep technical discussions. Explore my repositories to see my work in action, and feel free to reach out!
+
+## 💻 My Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,bash,c,js,ts,py,ocaml,docker"/>
+  </a>
+</p>
 
 <div align="center">
 
