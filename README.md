@@ -18,6 +18,8 @@
   </a>
 </p>
 
+## 📈 My Stats
+
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloQuartarone&show_icons=true&theme=dark&rank_icon=github) 
