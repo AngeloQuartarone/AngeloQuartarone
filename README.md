@@ -4,7 +4,7 @@
 
 🔧 My GitHub is a showcase of projects that dive deep into the intricacies of system programming, embedded development, and efficient code optimization. I’m particularly interested in areas like memory management, concurrency, and hardware interfacing, where every line of code counts.
 
-🌱 I’m currently learning more in depth **C**, but in the future I would also like to explore languages such as **Rust** and **Zig**!
+🌱 I am currently learning **C** in more depth, but in the future I would like to improve my knowledge of languages such as **Rust** and **Zig**!
 
 💡 I also have experience with languages like **Python**, **JavaScript**, **TypeScript**, **Bash**, **Java** and **OCaml**, but my true expertise and enthusiasm are in pushing the limits of low-level code.
 
