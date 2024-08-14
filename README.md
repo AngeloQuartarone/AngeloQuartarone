@@ -10,10 +10,11 @@
 
 🚀 I’m always eager to connect with others who share a passion for system-level programming, whether it's through collaboration on open-source projects or deep technical discussions. Explore my repositories to see my work in action, and feel free to reach out!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngeloQuartarone&show_icons=true&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloQuartarone)](https://github.com/AngeloQuartarone/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloQuartarone&show_icons=true&theme=dark)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloQuartarone)](https://github.com/AngeloQuartarone/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloQuartarone)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngeloQuartarone)](https://git.io/streak-stats)
 <!--
 **AngeloQuartarone/AngeloQuartarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
