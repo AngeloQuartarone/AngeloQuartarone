@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloQuartarone&show_icons=true&theme=dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloQuartarone&show_icons=true&theme=dark&rank_icon=github) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngeloQuartarone&theme=dark)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloQuartarone&layout=compact&theme=dark)](https://github.com/AngeloQuartarone/github-readme-stats)
