@@ -1,14 +1,14 @@
 # 👋 Hi everyone, I'm Angelo Quartarone!
 
-🎓 I'm a Computer Science student at the University of Pisa, with a deep focus on low-level programming. My passion lies in understanding and controlling the hardware at a fundamental level, which is why I work primarily with **C**.
+🎓 I am a Computer Science student at the University of Pisa, with a deep focus on low-level programming. My passion lies in understanding and controlling the hardware, therefore primarily programming in **C**.
 
-🔧 My GitHub is a showcase of projects that dive deep into the intricacies of system programming, embedded development, and efficient code optimization. I’m particularly interested in areas like memory management, concurrency, and hardware interfacing, where every line of code counts.
+🔧 My GitHub is a showcase of projects, including system programming, embedded development, and efficient code optimization. I am particularly interested in areas like memory management, concurrency, and hardware interfacing, where every line of code counts.
 
-🌱 I am currently learning **C** in more depth, but in the future I would like to improve my knowledge of languages such as **Rust** and **Zig**!
+🌱 I am currently learning other low-level languages such as **Rust** and **Zig**!
 
-💡 I also have experience with languages like **Python**, **JavaScript**, **TypeScript**, **Bash**, **Java** and **OCaml**, but my true expertise and enthusiasm are in pushing the limits of low-level code.
+💡 I have also experience with **Python**, **JavaScript**, **TypeScript**, **Bash**, **Java** and **OCaml**.
 
-🚀 I’m always eager to connect with others who share a passion for system-level programming, whether it's through collaboration on open-source projects or deep technical discussions. Explore my repositories to see my work in action, and feel free to reach out!
+🚀 I am always eager to connect with others who share my passion for system-level programming, either through collaboration on open-source projects and deep technical discussions. Explore my repositories to see my work in action, and feel free to reach me out!
 
 ## 💻 My Stack
 
