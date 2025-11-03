@@ -4,8 +4,6 @@
 
 🔧 My GitHub is a showcase of projects, including system programming, embedded development, and efficient code optimization. I am particularly interested in areas like memory management, concurrency, and hardware interfacing, where every line of code counts.
 
-🌱 I am currently learning other low-level languages such as **Rust** and **Zig**!
-
 💡 I have also experience with **Python**, **JavaScript**, **TypeScript**, **Bash**, **Java** and **OCaml**.
 
 🚀 I am always eager to connect with others who share my passion for system-level programming, either through collaboration on open-source projects and deep technical discussions. Explore my repositories to see my work in action, and feel free to reach me out!
