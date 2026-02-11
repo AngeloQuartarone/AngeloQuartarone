@@ -17,7 +17,7 @@ I am a **Backend Engineer** with a strong foundation in system programming. Whil
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,android,py,c,linux,docker,git,bash,postgres,ts,rust,ocaml&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,c,linux,docker,git,bash,postgres,js,ts,rust,ocaml"/>
   </a>
 </p>
 
