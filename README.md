@@ -1,28 +1,40 @@
-# 👋 Hi everyone, I'm Angelo Quartarone!
+# 👋 Hi there, I'm Angelo Quartarone!
 
-🎓 I am a Computer Science student at the University of Pisa, with a deep focus on low-level programming. My passion lies in understanding and controlling the hardware, therefore primarily programming in **C**.
+🎓 **Computer Science Graduate** from the University of Pisa.
 
-🔧 My GitHub is a showcase of projects, including system programming, embedded development, and efficient code optimization. I am particularly interested in areas like memory management, concurrency, and hardware interfacing, where every line of code counts.
+I am a **Backend Engineer** with a strong foundation in system programming. While my roots are in understanding hardware and low-level efficiency, my focus has evolved toward architecting scalable software systems and building robust mobile applications.
 
-💡 I have also experience with **Python**, **JavaScript**, **TypeScript**, **Bash**, **Java** and **OCaml**.
+🚀 **My current focus:**
+* **Backend Engineering:** Designing efficient APIs, managing databases, and ensuring system scalability using **Python**.
+* **Mobile Development:** Building modern Android applications using **Kotlin**, **Jetpack Compose**, and Clean Architecture.
+* **Engineering First:** I leverage my background in **C** and memory management to write optimized, high-performance code, regardless of the language.
 
-🚀 I am always eager to connect with others who share my passion for system-level programming, either through collaboration on open-source projects and deep technical discussions. Explore my repositories to see my work in action, and feel free to reach me out!
+💡 I am also proficient with **TypeScript**, **Bash**, **SQL**, and functional languages like **OCaml**.
 
-## 💻 My Stack
+🤝 I am always eager to connect with developers interested in software architecture, backend challenges, and mobile engineering. Explore my repositories to see my evolution from system programming to full-stack engineering!
+
+## 💻 My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,bash,docker,c,py,rust,ocaml,js,ts,java"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,android,py,c,linux,docker,git,bash,postgres,ts,rust,ocaml&perline=7"/>
   </a>
 </p>
 
-## 📈 My Stats
+## 📈 My GitHub Stats
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloQuartarone&show_icons=true&theme=dark&rank_icon=github) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngeloQuartarone&theme=dark)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloQuartarone&layout=compact&theme=dark)](https://github.com/AngeloQuartarone/github-readme-stats)
+<a href="https://github.com/AngeloQuartarone">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloQuartarone&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" alt="Angelo's Stats"/>
+</a>
+
+<a href="https://github.com/AngeloQuartarone">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloQuartarone&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngeloQuartarone&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
